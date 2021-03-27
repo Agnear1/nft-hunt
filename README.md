@@ -3,17 +3,19 @@
 Our idea is to create a real world NFT hunt. 
 
 
-NFT Creator
+**NFT Creator**
 Place an NFT somewhere on the map (testnet).
 
-NFT Treasure Hunter
+**NFT Treasure Hunter**
 Find an NFT somewhere on the map (testnet).
 
 **Rules**
 → Users will travel to predetermined locations to collect NFT’s representing those areas. 
 → The corresponding NFT will cost some token in order to acquire, and the only way to access the possibility of buying these tokens is by being in a very specific location. 
+
 → If the user would like to purchase the NFT, they can initiate the smart contract and exchange some coins in their wallet for the corresponding NFT at that location.
 Initial Steps
+
 After looking into the two leading geolocation projects, XYO and FOAM, it is obvious that the space has some serious development issues. Both of these projects are plagued by their inability to produce a dynamic location. This severely limits the usability of the network and renders it almost useless for our purposes. 
 
 Use External adapter to Google maps API for Geolocation data
