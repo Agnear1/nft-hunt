@@ -3,7 +3,7 @@
 Our idea is to create a real world NFT hunt. 
 
 
-##NFT Creator
+#NFT Creator
 Place an NFT somewhere on the map (testnet).
 
 ##NFT Treasure Hunter
